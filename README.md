@@ -1,4 +1,4 @@
-# LifeWow app download
+# LifeWow app public test version download
 ![GitHub](logo.png)
 * url: https://github.com/lifewow/app/raw/master/lifewow-android.apk
 * QR code:
